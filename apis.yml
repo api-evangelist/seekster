@@ -35,6 +35,9 @@ description: >-
   offline (HTTP 402 / DEPLOYMENT_DISABLED) and no public API specification, SDK, or
   developer portal could be located.
 url: https://raw.githubusercontent.com/api-evangelist/seekster/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "This profile was enriched by the API Evangelist pipeline; at the time of enrichment the public website deployment was offline (HTTP 402 / DEPLOYMENT_DISABLED) and no public API specification, SDK, or "
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
